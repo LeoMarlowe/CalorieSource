@@ -1,7 +1,7 @@
 {
   "name": "LeoMarlowe Apps",
   "identifier": "com.arasaka1.source",
-  "sourceURL": "https://leomarlowe.github.io/CalorieSource/apps.json",
+  "sourceURL": "https://raw.githubusercontent.com/LeoMarlowe/CalorieSource/main/apps.json",
   "apps": [
     {
       "name": "Calorie",
