@@ -1,15 +1,15 @@
 {
-  "name": "Arasaka1 Apps",
+  "name": "LeoMarlowe Apps",
   "identifier": "com.arasaka1.source",
-  "sourceURL": "https://arasaka1.github.io/CalorieSource/apps.json",
+  "sourceURL": "https://leomarlowe.github.io/CalorieSource/apps.json",
   "apps": [
     {
       "name": "Calorie",
       "bundleIdentifier": "com.arasaka1.calorie",
-      "developerName": "Arasaka1",
+      "developerName": "LeoMarlowe",
       "subtitle": "AI-powered calorie tracking",
       "localizedDescription": "A minimalist iOS 26 calorie tracker powered by AI. Features Apple Liquid Glass UI, LLM integrations (Gemini, Cerebras, Apple Foundation Models), activity rings, weekly progress tracking, and on-device backup.",
-      "iconURL": "https://raw.githubusercontent.com/Arasaka1/CalorieSource/main/icon.png",
+      "iconURL": "https://raw.githubusercontent.com/LeoMarlowe/CalorieSource/main/icon.png",
       "tintColor": "FF9500",
       "screenshotURLs": [],
       "versions": [
@@ -17,7 +17,7 @@
           "version": "0.0.4",
           "date": "2026-03-10T01:08:59-00:00",
           "localizedDescription": "Calorie v0.0.4",
-          "downloadURL": "https://github.com/Arasaka1/CalorieSource/releases/download/v0.0.4/Calorie.ipa",
+          "downloadURL": "https://github.com/LeoMarlowe/CalorieSource/releases/download/v0.0.4/Calorie.ipa",
           "size": 281445
         }
       ],

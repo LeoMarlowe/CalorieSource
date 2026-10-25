@@ -7,7 +7,7 @@ SideStore source repository for the **Calorie** app — an AI-powered calorie tr
 Open SideStore, go to **Sources** → tap **+** → paste this URL:
 
 ```
-https://arasaka1.github.io/CalorieSource/apps.json
+https://leomarlowe.github.io/CalorieSource/apps.json
 ```
 
 ## Features
